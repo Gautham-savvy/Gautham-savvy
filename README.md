@@ -150,7 +150,6 @@ const gautham = {
 
 | | Achievement | Details |
 |---|---|---|
-| 🥇 | **1st Place — Animation** | Kerala Sasthrolsavam IT Fair 2019–2020 (Government of Kerala Award) |
 | 🔐 | **HIPAA-Compliant Blockchain EHR** | AES-256-GCM + SHA-256 ledger tested across 10+ patient records |
 | ⚡ | **40% API Call Reduction** | Debouncing optimization in Movie Search App |
 | 🎓 | **Peer Tutor** | Taught Python & DSA to 10–15 students at JCT College |
